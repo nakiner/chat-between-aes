@@ -1,0 +1,9 @@
+C:\Users\nakiner\Documents\MEGA\Projects\chat-between-aes\chat-between-aes\bin\Debug\chat-between-aes.exe.config
+C:\Users\nakiner\Documents\MEGA\Projects\chat-between-aes\chat-between-aes\bin\Debug\chat-between-aes.exe
+C:\Users\nakiner\Documents\MEGA\Projects\chat-between-aes\chat-between-aes\bin\Debug\chat-between-aes.pdb
+C:\Users\nakiner\Documents\MEGA\Projects\chat-between-aes\chat-between-aes\obj\Debug\chat-between-aes.csprojResolveAssemblyReference.cache
+C:\Users\nakiner\Documents\MEGA\Projects\chat-between-aes\chat-between-aes\obj\Debug\chat_between_aes.Form1.resources
+C:\Users\nakiner\Documents\MEGA\Projects\chat-between-aes\chat-between-aes\obj\Debug\chat_between_aes.Properties.Resources.resources
+C:\Users\nakiner\Documents\MEGA\Projects\chat-between-aes\chat-between-aes\obj\Debug\chat-between-aes.csproj.GenerateResource.Cache
+C:\Users\nakiner\Documents\MEGA\Projects\chat-between-aes\chat-between-aes\obj\Debug\chat-between-aes.exe
+C:\Users\nakiner\Documents\MEGA\Projects\chat-between-aes\chat-between-aes\obj\Debug\chat-between-aes.pdb
