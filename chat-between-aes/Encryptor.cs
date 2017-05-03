@@ -40,8 +40,18 @@ namespace chat_between_aes
                     AES.Key = byteKey;
 
                     ICryptoTransform container = AES.CreateDecryptor();
-                    byte[] decryptedData = container.TransformFinalBlock(message, 0, message.Length);
-                    string decrypted = Encoding.Unicode.GetString(decryptedData);
+                    byte[] decryptedData = null;
+                    string decrypted = "";
+
+                    try
+                    {
+                        decryptedData = container.TransformFinalBlock(message, 0, message.Length);
+                        decrypted = Encoding.Unicode.GetString(decryptedData);
+                    }
+                    catch
+                    {
+                        decrypted = "";
+                    }
 
                     return decrypted;
                 }
